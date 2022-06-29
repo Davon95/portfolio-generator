@@ -1,4 +1,5 @@
 // create the about section
+const projectsArr = [];
 const generateAbout = aboutText => {
     if (!aboutText) {
         return '';
